@@ -21,6 +21,9 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class OperationsTest {
+	/*
+	 * Second new coment
+	 */
 
 	private Square square;
 
