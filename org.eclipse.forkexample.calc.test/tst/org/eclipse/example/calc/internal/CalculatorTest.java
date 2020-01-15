@@ -16,6 +16,9 @@ import org.junit.After;
 import org.junit.Test;
 
 public class CalculatorTest {
+	/*
+	 * New comment
+	 */
 
 	@After
 	public void tearDown() throws Exception {
